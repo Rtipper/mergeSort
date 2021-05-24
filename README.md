@@ -4,14 +4,9 @@
 **Version**: 1.0.0
 
 # Link to BLOG.md
-- 
-
-# Pull Request
--  
-
+- https://github.com/Rtipper/mergeSort/blob/main/BLOG.md
 
 ## Overview - CC27 Blog Article for mergeSort
-
 
 ## Process
 Setup repo
